@@ -24,11 +24,12 @@ a:hover {
 }
 
 .boxes {
-    margin: 2rem;
-    padding: 1rem 3rem;
+    margin: 0.5rem;
+    padding: 1.5rem;
     border: solid #ffff00;
     border-radius: 15px;
     width: 30em;
+    display: block;
 }
 
 #box1 {
@@ -45,4 +46,13 @@ a:hover {
 
 #box4 {
     background-color: #9370db;
+}
+
+.image-for-boxes {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #daa520;
+    position: absolute;
+    left: 4rem;
 }
