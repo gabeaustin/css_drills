@@ -56,3 +56,52 @@ a:hover {
     position: absolute;
     left: 4rem;
 }
+
+h1 {
+    color: #fff333;
+}
+
+.original {
+    color: #dc143c;
+}
+
+.additional {
+    color: #d2691e;
+}
+
+#show1 {
+    color: #ff5733;
+}
+
+#show2 {
+    color: #2ecc71;
+}
+
+#show3 {
+    color: #f39c12;
+}
+
+#show4 {
+    color: #2980b9;
+}
+
+#show5 {
+    color: #daf7a6;
+}
+
+li {
+    color: #145a32;
+}
+
+.star {
+    color: #922b21;
+}
+
+#wars {
+    color: #9c640c;
+}
+
+.lists {
+    border: 2px solid #000;
+}
+
